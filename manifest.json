@@ -1,0 +1,11 @@
+{
+  "name": "PouchDB Hello world",
+  "description": "PouchDB Hello world", 
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["app.js"]
+    }
+  }
+}
